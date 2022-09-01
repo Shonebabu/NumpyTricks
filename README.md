@@ -1,2 +1,2 @@
-# NumpyTricks
-It consist of almost all the commands of numpy 
+# DATASCIENCE PROJECT  by SHONE
+It consist of data science projects
